@@ -1,8 +1,8 @@
-# Vue 3 Setup
+# Frontend Maspos
 
 This template should help get you started developing with Vue 3 in Vite.
 
-If you need a backend, check this out [express-setup-v2](https://gitlab.com/mtaufiikh/express-setup-v2).
+If you need a backend, check this out [backend-maspos](https://github.com/dewaanzx/backend-maspos).
 
 
 ## Official Documentation
